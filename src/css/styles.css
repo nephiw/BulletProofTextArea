@@ -1,0 +1,16 @@
+a {
+    color: #3c05ff;
+}
+
+a:hover {
+    color: #1381ff;
+    textDecoration: underline;
+}
+
+.strong {
+    color: #b97c09;
+}
+
+.direction {
+    color: #02690e;
+}
