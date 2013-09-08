@@ -11,7 +11,6 @@ package com.nephiwright.components {
             super();
         }
 
-        // setter override
         override public function set htmlText(value:String):void {
             captureWidth();
             if (value != "") {
